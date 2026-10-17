@@ -1,0 +1,2 @@
+# Dependencias del proyecto Ecobici
+# Se completará si se utilizan bibliotecas externas.
