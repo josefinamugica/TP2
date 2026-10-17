@@ -3,7 +3,7 @@
 **Materia:** Programación Orientada a Datos  
 **Universidad:** Universidad Católica Argentina (UCA)  
 **Trabajo:** Trabajo Práctico 2 - Individual  
-**Autor:**Josefina Mugica 
+**Autor:** Josefina Mugica 
 
 ## 1. Descripción del proyecto
 
